@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Jaiswal</h1>
 
-<img align="center" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47lpodw3mlkzqmi7nmamvo4x6wnfpc3rdxkfas5hm7&rid=200.webp&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47lpodw3mlkzqmi7nmamvo4x6wnfpc3rdxkfas5hm7&rid=200.webp&ct=g">
 
 </p>
 
