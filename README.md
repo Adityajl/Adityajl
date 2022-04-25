@@ -10,3 +10,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityajl&show_icons=true&locale=en&layout=compact" alt="adityajl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityajl&show_icons=true&locale=en" alt="adityajl" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityajl&" alt="adityajl" /></p>
