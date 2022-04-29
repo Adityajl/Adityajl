@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif" width="120" height='90'/>
-  <img src="https://media.giphy.com/media/S404fSUTw17tuKGq74/giphy.gif" width="120" height='90'/>
-  <img src="https://media.giphy.com/media/hrdX1BsUBq7DkGJCCd/giphy.gif" width="120" height='90'/>
-  <img src="https://media.giphy.com/media/lxnMIgN9pwZf0yMVPD/giphy.gif" width="120" height='90'/>
+  <img src="https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif" width="140" height='115'/>
+  <img src="https://media.giphy.com/media/S404fSUTw17tuKGq74/giphy.gif" width="140" height='115'/>
+  <img src="https://media.giphy.com/media/hrdX1BsUBq7DkGJCCd/giphy.gif" width="140" height='115'/>
+  <img src="https://media.giphy.com/media/lxnMIgN9pwZf0yMVPD/giphy.gif" width="140" height='115'/>
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="300"/>
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityajl" alt="adityajl" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityajl" alt="adityajl" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
