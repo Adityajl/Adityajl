@@ -32,5 +32,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+## 😂 Here is a random joke!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Adityajl&icon=6&color=4)](https://visitcount.itsvg.in)
