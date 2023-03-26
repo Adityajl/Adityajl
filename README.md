@@ -12,7 +12,7 @@ const Aditya = {
     askMeAbout: ["machine learning","artificial intelligence", "tech", "cyber security", "App Development", "linux"],
     technologies: {
     	machine learing:{
-	    framework: ["Tensorflow", "Pytorch", "Flutter"]
+	    framework: ["Tensorflow", "Pytorch"]
 	},
     workplace: {
                 college: 'NIET',
