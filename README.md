@@ -1,6 +1,6 @@
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h1>
 
-<p>Greetings I am Aditya Jaiswal, a passionate AI and Machine Learning developer and freelance software engineer from India. I aspire to bring innovative ideas to life with elegant projects that enhance user experience and optimize performance. My expertise in AI and Machine Learning enables me to design intelligent solutions that automate processes and revolutionize the industry.</p>
+<p>Greetings, I am Aditya Jaiswal, a passionate AI and Machine Learning developer and freelance software engineer from India. I aspire to bring innovative ideas to life with elegant projects that enhance user experience and optimize performance. My expertise in AI and Machine Learning enables me to design intelligent solutions that automate processes and revolutionize the industry.</p>
 
 <p align="center" /><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/></p>
 <br>
