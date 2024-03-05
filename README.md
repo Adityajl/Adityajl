@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I'm Aditya</h1>
 <h3 align="center">A Full-Stack Developer</h3>
 
-<p>Greetings, I am Aditya Jaiswal, a passionate AI and Machine Learning developer and freelance software engineer. I aspire to bring innovative ideas to life with elegant projects that enhance user experience and optimize performance. My expertise in AI and Machine Learning enables me to design intelligent solutions that automate processes and revolutionize the industry.</p>
+<p>Greetings, I am Aditya Jaiswal, a passionate AI and Machine Learning developer and software engineer. I aspire to bring innovative ideas to life with elegant projects that enhance user experience and optimize performance. My expertise in AI and Machine Learning enables me to design intelligent solutions that automate processes and revolutionize the industry.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
