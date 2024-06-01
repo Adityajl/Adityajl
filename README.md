@@ -10,7 +10,7 @@
 <a href="https://kaggle.com/aj5400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aj5400" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@aj7002452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aj7002452" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aj7002452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aj7002452" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@adityaj5400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@adityaj5400" height="30" width="40" /></a>
+<a href="https://medium.com/@adityaj5400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@adityaj5400" height="30" width="40" /></a>
 </p>
 
 <br>
