@@ -1,9 +1,3 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> I'm Aditya</h1>
-<h3 align="center">A Full-Stack Developer</h3>
-
-<p>Greetings, I am Aditya Jaiswal, a passionate AI and Machine Learning developer and software engineer. I aspire to bring innovative ideas to life with elegant projects that enhance user experience and optimize performance. My expertise in AI and Machine Learning enables me to design intelligent solutions that automate processes and revolutionize the industry.</p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/adityaj5400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityaj5400" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-jaiswal-3b36a2256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-jaiswal-3b36a2256/" height="30" width="40" /></a>
@@ -17,15 +11,6 @@
 
 <p align="center" /><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/></p>
 <br>
-
-- 🌱 I’m currently learning **Deep Learning, AI, Reinforcement Learning**
-
-- 💬 Ask me about **Python, Web Development, Machine Learning**
-
-- 📝 I regularly write articles on [https://medium.com/@adityaj5400](https://medium.com/@adityaj5400) 
-
-- 📫 How to reach me <a>**aj7002452@gmail.com**</a>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -64,22 +49,10 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>   </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Adityajl&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-
-![Snake animation](https://github.com/warriorwizard/warriorwizard/blob/output/github-contribution-grid-snake.svg)
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
 ![](https://github-readme-stats.vercel.app/api?username=Adityajl&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adityajl&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityajl&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
----
-[![](https://visitcount.itsvg.in/api?id=Adityajl&icon=6&color=0)](https://visitcount.itsvg.in)
