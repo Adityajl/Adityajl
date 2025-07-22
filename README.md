@@ -75,6 +75,13 @@
 
   <br/>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Adityajl/Adityajl/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+</div>
+
+
+
+
 <br/><br/>
 
 
