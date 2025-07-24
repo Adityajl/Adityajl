@@ -66,14 +66,18 @@
 <br>
 
 <h2 align="center">⚡ Current Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Adityajl&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Adityajl&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityajl&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityajl&show_icons=true&theme=react&rank_icon=github&border_radius=10&count_private=true"
+       alt="GitHub Stats" width="400"/>
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityajl&layout=compact&theme=react&border_radius=10&hide=html&langs_count=8"
+       alt="Top Languages" width="340"/>
+
 </div>
 
-  <br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Adityajl/Adityajl/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
